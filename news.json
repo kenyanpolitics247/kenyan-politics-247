@@ -1,0 +1,30 @@
+{
+  "featured": [
+    {
+      "title": "Parliament Divided Over Governance Reform Bill",
+      "image": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c",
+      "category": "Governance"
+    },
+    {
+      "title": "County Leaders Demand Fair Revenue Allocation",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c",
+      "category": "Counties"
+    },
+    {
+      "title": "Judiciary Under Pressure as Public Trust Declines",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e",
+      "category": "Judiciary"
+    }
+  ],
+
+  "trending": [
+    "Senate clashes over national budget priorities",
+    "Political alliances shift ahead of 2027 elections",
+    "Public participation bill sparks nationwide debate"
+  ],
+
+  "videos": [
+    "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  ]
+}
