@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>KP24/7 Admin Panel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body style="background:#0b0b0b;color:#fff;padding:40px">
+
+<h1>KENYAN POLITICS 24/7 – Admin Panel</h1>
+<p>Add breaking news, articles & videos</p>
+
+<hr><br>
+
+<h2>Add Featured News</h2>
+<input id="title" placeholder="News headline"><br><br>
+<input id="image" placeholder="Image URL"><br><br>
+<input id="category" placeholder="Category (Governance, Parliament...)"><br><br>
+<button onclick="addNews()">Publish Article</button>
+
+<hr><br>
+
+<h2>Add Video</h2>
+<input id="video" placeholder="YouTube embed URL"><br><br>
+<button onclick="addVideo()">Publish Video</button>
+
+<hr><br>
+
+<button onclick="clearAll()" style="background:red;">⚠ Clear All Content</button>
+
+<script src="js/admin.js"></script>
+</body>
+</html>
